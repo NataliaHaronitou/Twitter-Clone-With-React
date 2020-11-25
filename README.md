@@ -1,5 +1,5 @@
 # Twitter-Clone-With-React
-This project was bootstrapped with Create React App.
+This project was bootstrapped with Create React App.  This is a simple and basic Twitter clone to explore different integration tools for widgets, embedding tweets, etc. 
 
 # Available Scripts
 In the project directory, you can run:
